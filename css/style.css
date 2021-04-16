@@ -1,0 +1,10 @@
+body{
+    margin-top: 10vh;
+}
+span.error{
+    color: red;
+}
+h5{
+    color: darkslategray;
+    font-style: italic;
+}
